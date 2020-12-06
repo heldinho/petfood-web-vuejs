@@ -12,24 +12,36 @@
             <div class="form-group">
               <input
                 type="text"
-                class="form-control"
+                class="form-control form-control-lg"
                 placeholder="Nome Completo"
               />
             </div>
             <div class="form-group">
-              <input type="email" class="form-control" placeholder="E-Mail" />
+              <input
+                type="email"
+                class="form-control form-control-lg"
+                placeholder="E-Mail"
+              />
             </div>
             <div class="form-group">
-              <input type="tel" class="form-control" placeholder="Telefone" />
+              <input
+                type="tel"
+                class="form-control form-control-lg"
+                placeholder="Telefone"
+              />
             </div>
             <div class="form-group">
-              <input type="tel" class="form-control" placeholder="CPF" />
+              <input
+                type="tel"
+                class="form-control form-control-lg"
+                placeholder="CPF"
+              />
             </div>
             <div class="form-group">
-              <input type="date" class="form-control" />
+              <input type="date" class="form-control form-control-lg" />
             </div>
             <div class="form-group">
-              <button class="btn button-primary btn-block">
+              <button class="btn button-primary btn-block btn-lg">
                 Finalizar Pedido
               </button>
             </div>
@@ -37,7 +49,7 @@
         </div>
         <div class="col-6">
           <div class="box-image-register">
-            <img :src="img_illustration" />
+            <img :src="illustration" />
           </div>
         </div>
       </div>
@@ -46,10 +58,10 @@
 </template>
 
 <script>
-import img_illustration from '../assets/illustration.png'
+import illustration from '../assets/illustration.png'
 export default {
   data: () => ({
-    img_illustration: img_illustration
+    illustration: illustration
   })
 }
 </script>

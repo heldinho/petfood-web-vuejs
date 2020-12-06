@@ -1,10 +1,6 @@
 <template>
   <div id="app">
     <Header />
-    <!-- <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div> -->
     <div class="body">
       <router-view />
     </div>
@@ -22,6 +18,16 @@ export default {
 </script>
 
 <style lang="scss">
+.btn.focus,
+.btn:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 255, 157, 0.25) !important;
+}
+
+.form-control:focus {
+  border-color: #06d6a0 !important;
+  box-shadow: 0 0 0 0.2rem rgba(0, 255, 157, 0.25) !important;
+}
+
 .button-primary {
   background: #06d6a0;
   color: #fff;
@@ -36,20 +42,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   height: calc(100vh - 60px);
-}
-
-#nav {
-  margin-top: 60px;
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+  user-select: none !important;
 }
 
 .body {
