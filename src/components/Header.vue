@@ -1,7 +1,9 @@
 <template>
   <div class="header-container">
-    <div>
-      <img :src="Logo" />
+    <div class="box-logo ml-3">
+      <router-link to="/">
+        <img :src="Logo" class="img-fluid" />
+      </router-link>
     </div>
     <div>Teste</div>
   </div>
@@ -29,5 +31,11 @@ export default {
   align-content: center;
   border-bottom: 1px solid #f1f1f1;
   box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.15);
+
+  .box-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
 </style>
