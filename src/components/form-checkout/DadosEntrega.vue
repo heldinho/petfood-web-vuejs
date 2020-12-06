@@ -11,7 +11,7 @@
         <div class="form-group">
           <input
             type="tel"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="CEP"
           />
         </div>
@@ -23,7 +23,7 @@
         <div class="form-group">
           <input
             type="text"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="Cidade"
           />
         </div>
@@ -32,7 +32,7 @@
         <div class="form-group">
           <input
             type="text"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="UF"
           />
         </div>
@@ -44,7 +44,7 @@
         <div class="form-group">
           <input
             type="text"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="Logradouro"
           />
         </div>
@@ -53,7 +53,7 @@
         <div class="form-group">
           <input
             type="tel"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="Número"
           />
         </div>
@@ -65,7 +65,7 @@
         <div class="form-group">
           <input
             type="text"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="Bairro"
           />
         </div>
@@ -74,7 +74,7 @@
         <div class="form-group">
           <input
             type="text"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="Complemento"
           />
         </div>

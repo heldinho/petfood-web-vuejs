@@ -11,7 +11,7 @@
         <div class="form-group">
           <input
             type="tel"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="Número do Cartão"
           />
         </div>
@@ -23,7 +23,7 @@
         <div class="form-group">
           <input
             type="text"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="Validade"
           />
         </div>
@@ -32,7 +32,7 @@
         <div class="form-group">
           <input
             type="text"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="CVV"
           />
         </div>
@@ -44,7 +44,7 @@
         <div class="form-group">
           <input
             type="text"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="Nome do Títular"
           />
         </div>
@@ -53,7 +53,7 @@
         <div class="form-group">
           <input
             type="text"
-            class="form-control form-control-lg"
+            class="form-control form-control-sm"
             placeholder="CPF / CNPJ do Títular"
           />
         </div>
@@ -72,7 +72,7 @@
     <div class="row">
       <div class="col-12">
         <div class="form-group">
-          <button class="btn button-primary btn-block btn-lg">
+          <button class="btn button-primary btn-block btn-sm">
             Finalizar Pedido
           </button>
         </div>

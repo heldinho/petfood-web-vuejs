@@ -12,36 +12,36 @@
             <div class="form-group">
               <input
                 type="text"
-                class="form-control form-control-lg"
+                class="form-control form-control-sm"
                 placeholder="Nome Completo"
               />
             </div>
             <div class="form-group">
               <input
                 type="email"
-                class="form-control form-control-lg"
+                class="form-control form-control-sm"
                 placeholder="E-Mail"
               />
             </div>
             <div class="form-group">
               <input
                 type="tel"
-                class="form-control form-control-lg"
+                class="form-control form-control-sm"
                 placeholder="Telefone"
               />
             </div>
             <div class="form-group">
               <input
                 type="tel"
-                class="form-control form-control-lg"
+                class="form-control form-control-sm"
                 placeholder="CPF"
               />
             </div>
             <div class="form-group">
-              <input type="date" class="form-control form-control-lg" />
+              <input type="date" class="form-control form-control-sm" />
             </div>
             <div class="form-group">
-              <button class="btn button-primary btn-block btn-lg">
+              <button class="btn button-primary btn-block btn-sm">
                 Finalizar Pedido
               </button>
             </div>
