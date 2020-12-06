@@ -68,9 +68,13 @@ export default {
 
 <style lang="scss" scoped>
 .register {
-  height: calc(100vh - 60px);
   background: rgba(0, 0, 0, 0.02);
   .form-container {
+    h4 {
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: 3px;
+    }
     .box-form {
       border-radius: 5px;
       width: 500px;
