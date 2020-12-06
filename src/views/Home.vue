@@ -8,4 +8,9 @@
 export default {}
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.home {
+  height: calc(100vh - 60px);
+  background: rgba(0, 0, 0, 0.02);
+}
+</style>
