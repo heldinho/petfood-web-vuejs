@@ -64,7 +64,7 @@
     <div class="row">
       <div class="col-12">
         <div class="form-group">
-          <button class="btn button-primary btn-block btn-sm">
+          <button class="btn button-primary btn-block">
             Finalizar Pedido
           </button>
         </div>

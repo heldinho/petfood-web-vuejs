@@ -29,7 +29,7 @@
               <input type="date" class="form-control" />
             </div>
             <div class="form-group">
-              <button class="btn button-primary btn-block btn-sm">
+              <button class="btn button-primary btn-block">
                 Finalizar Pedido
               </button>
             </div>
