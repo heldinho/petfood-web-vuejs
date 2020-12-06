@@ -12,33 +12,21 @@
             <div class="form-group">
               <input
                 type="text"
-                class="form-control form-control-sm"
+                class="form-control"
                 placeholder="Nome Completo"
               />
             </div>
             <div class="form-group">
-              <input
-                type="email"
-                class="form-control form-control-sm"
-                placeholder="E-Mail"
-              />
+              <input type="email" class="form-control" placeholder="E-Mail" />
             </div>
             <div class="form-group">
-              <input
-                type="tel"
-                class="form-control form-control-sm"
-                placeholder="Telefone"
-              />
+              <input type="tel" class="form-control" placeholder="Telefone" />
             </div>
             <div class="form-group">
-              <input
-                type="tel"
-                class="form-control form-control-sm"
-                placeholder="CPF"
-              />
+              <input type="tel" class="form-control" placeholder="CPF" />
             </div>
             <div class="form-group">
-              <input type="date" class="form-control form-control-sm" />
+              <input type="date" class="form-control" />
             </div>
             <div class="form-group">
               <button class="btn button-primary btn-block btn-sm">

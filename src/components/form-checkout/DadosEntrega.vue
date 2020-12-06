@@ -9,11 +9,7 @@
     <div class="row">
       <div class="col-12">
         <div class="form-group">
-          <input
-            type="tel"
-            class="form-control form-control-sm"
-            placeholder="CEP"
-          />
+          <input type="tel" class="form-control" placeholder="CEP" />
         </div>
       </div>
     </div>
@@ -21,20 +17,12 @@
     <div class="row">
       <div class="col-8">
         <div class="form-group">
-          <input
-            type="text"
-            class="form-control form-control-sm"
-            placeholder="Cidade"
-          />
+          <input type="text" class="form-control" placeholder="Cidade" />
         </div>
       </div>
       <div class="col-4">
         <div class="form-group">
-          <input
-            type="text"
-            class="form-control form-control-sm"
-            placeholder="UF"
-          />
+          <input type="text" class="form-control" placeholder="UF" />
         </div>
       </div>
     </div>
@@ -42,20 +30,12 @@
     <div class="row">
       <div class="col-8">
         <div class="form-group">
-          <input
-            type="text"
-            class="form-control form-control-sm"
-            placeholder="Logradouro"
-          />
+          <input type="text" class="form-control" placeholder="Logradouro" />
         </div>
       </div>
       <div class="col-4">
         <div class="form-group">
-          <input
-            type="tel"
-            class="form-control form-control-sm"
-            placeholder="Número"
-          />
+          <input type="tel" class="form-control" placeholder="Número" />
         </div>
       </div>
     </div>
@@ -63,20 +43,12 @@
     <div class="row">
       <div class="col-6">
         <div class="form-group">
-          <input
-            type="text"
-            class="form-control form-control-sm"
-            placeholder="Bairro"
-          />
+          <input type="text" class="form-control" placeholder="Bairro" />
         </div>
       </div>
       <div class="col-6">
         <div class="form-group">
-          <input
-            type="text"
-            class="form-control form-control-sm"
-            placeholder="Complemento"
-          />
+          <input type="text" class="form-control" placeholder="Complemento" />
         </div>
       </div>
     </div>

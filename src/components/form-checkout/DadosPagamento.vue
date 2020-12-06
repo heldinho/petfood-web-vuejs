@@ -11,7 +11,7 @@
         <div class="form-group">
           <input
             type="tel"
-            class="form-control form-control-sm"
+            class="form-control"
             placeholder="Número do Cartão"
           />
         </div>
@@ -21,20 +21,12 @@
     <div class="row">
       <div class="col-6">
         <div class="form-group">
-          <input
-            type="text"
-            class="form-control form-control-sm"
-            placeholder="Validade"
-          />
+          <input type="text" class="form-control" placeholder="Validade" />
         </div>
       </div>
       <div class="col-6">
         <div class="form-group">
-          <input
-            type="text"
-            class="form-control form-control-sm"
-            placeholder="CVV"
-          />
+          <input type="text" class="form-control" placeholder="CVV" />
         </div>
       </div>
     </div>
@@ -44,7 +36,7 @@
         <div class="form-group">
           <input
             type="text"
-            class="form-control form-control-sm"
+            class="form-control"
             placeholder="Nome do Títular"
           />
         </div>
@@ -53,7 +45,7 @@
         <div class="form-group">
           <input
             type="text"
-            class="form-control form-control-sm"
+            class="form-control"
             placeholder="CPF / CNPJ do Títular"
           />
         </div>
